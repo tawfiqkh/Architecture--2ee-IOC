@@ -20,3 +20,9 @@ U
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 R
 ".idea/copyright/tawfiq_khnicha.xml,4/c/4cad9023c579e8f327c128676eb1c674ae225689
+O
+src/main/java/config/config.txt,0/f/0f7adaff458d7a14b832843d13c792e0481aa0d9
+U
+%src/main/java/service/ServiceImp.java,8/0/80906dadf25a4fdb57dc240571622051e9bba0ef
+V
+&src/main/java/view/DynamicIOCView.java,f/a/fab7efda9bbc8c8e0b40af46bc6313da054131b9
